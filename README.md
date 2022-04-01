@@ -6,4 +6,6 @@ The goal is to create a virtual machine, configure it and create a script that d
 ```bash
 bash monitoring.sh
 ```
-    
+## Authors
+
+- [@thomasbrq](https://www.github.com/thomasbrq)
